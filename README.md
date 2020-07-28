@@ -2,7 +2,7 @@
 
 ---
 
-![https://drive.google.com/file/d/1RJTWeRuQsEO7RZSSbKOJNvQhv9bN3Wn8/view?usp=sharing](https://drive.google.com/file/d/1RJTWeRuQsEO7RZSSbKOJNvQhv9bN3Wn8/view?usp=sharing)
+![Banner Image](https://flic.kr/p/2jqSXvz)
 
 **I'm a photographer turned software engineer who is passionately curious about ways to support and connect fellow humans with technology. Technologies I enjoy working with include ReactJS, Flutter, and plain old Vanilla JavaScript and can't wait to discover more! I'm excited to apply all the skills I've learned from my small business into my first technology role** ✊🏿.
 
