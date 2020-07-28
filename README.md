@@ -8,7 +8,7 @@
 
 <img style="float: left;" src="https://live.staticflickr.com/65535/50164652572_2645fddceb_o.jpg">
 
-<div style="text-align: right"> 
+<div style="float: right"> 
  
 ## What I'm up to 👨🏿‍💻:
 
