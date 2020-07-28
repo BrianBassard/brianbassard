@@ -12,10 +12,10 @@
 
 <img style="float: left;" src="https://live.staticflickr.com/65535/50164652572_2645fddceb_o.jpg">
 
--   **Enrolled in Harvard's [CS50x](https://cs50.harvard.edu/x/2020/)**
--   **Strengthening my frontend skills at [HTML and CSS is hard](https://www.internetingishard.com/html-and-css/introduction/)**
--   **Honing fundamentals at [Javascript.info](https://javascript.info/)**
--   **Early stage of contributions at [Jupyterlab](https://jupyter.org/)**
+-   <div style="text-align: right"> **Enrolled in Harvard's [CS50x](https://cs50.harvard.edu/x/2020/)** </div>
+-   <div style="text-align: right"> **Strengthening my frontend skills at [HTML and CSS is hard](https://www.internetingishard.com/html-and-css/introduction/)** </div>
+-   <div style="text-align: right"> **Honing fundamentals at [Javascript.info](https://javascript.info/)** </div>
+-   <div style="text-align: right"> **Early stage of contributions at [Jupyterlab](https://jupyter.org/)** </div>
 
 ---
 
