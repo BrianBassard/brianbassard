@@ -12,8 +12,6 @@
 
 ## What I'm up to 👨🏿‍💻:
 
----
-
 -   **Enrolled in Harvard's [CS50x](https://cs50.harvard.edu/x/2020/)**
 -   **Strengthening my frontend skills at [HTML and CSS is hard](https://www.internetingishard.com/html-and-css/introduction/)**
 -   **Honing fundamentals at [Javascript.info](https://javascript.info/)**
