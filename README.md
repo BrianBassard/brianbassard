@@ -15,7 +15,7 @@
 -   **Honing fundamentals at [Javascript.info](https://javascript.info/)**
 -   **Early stage of contributions at [Jupyterlab](https://jupyter.org/)**
 
-<img style="float: left;" src="https://live.staticflickr.com/65535/50164652572_2645fddceb_o.jpg">
+<img style="float: right;" src="https://live.staticflickr.com/65535/50164652572_2645fddceb_o.jpg">
 
 ---
 
