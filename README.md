@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Brian! 🕺🏿 👋🏿
 
-<!--
-**BrianBassard/brianbassard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Code%20the%20Things%20ffb2f9e15fcf438aa4d3546049573bfe/banner_with_avatar2.jpg](Code%20the%20Things%20ffb2f9e15fcf438aa4d3546049573bfe/banner_with_avatar2.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm a photographer turned software engineer who is passionately curious about ways to support and connect fellow humans with technology. Technologies I enjoy working with include ReactJS, Flutter, and plain old Vanilla JavaScript and can't wait to discover more! I'm excited to apply all the skills I've learned from my small business into my first technology role** ✊🏿.
+
+![Code%20the%20Things%20ffb2f9e15fcf438aa4d3546049573bfe/me.jpg](Code%20the%20Things%20ffb2f9e15fcf438aa4d3546049573bfe/me.jpg)
+
+## What I'm up to 👨🏿‍💻:
+
+---
+
+-   **Enrolled in Harvard's [CS50x](https://cs50.harvard.edu/x/2020/)**
+-   **Strengthening my frontend skills at [HTML and CSS is hard](https://www.internetingishard.com/html-and-css/introduction/)**
+-   **Honing fundamentals at [Javascript.info](https://javascript.info/)**
+-   **Early stage of contributions at [Jupyterlab](https://jupyter.org/)**
+
+---
+
+Don't be a stranger. Please reach out if you'd like to connect, know a place that's hiring, or know of any organizations that I should plug myself into. 👌🏿
+
+---
