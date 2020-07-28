@@ -20,5 +20,3 @@
 **Don't be a stranger. Please reach out if you'd like to connect, know a place that's hiring, or know of any organizations that I should plug myself into.** 👌🏿
 
 </div>
-
----
