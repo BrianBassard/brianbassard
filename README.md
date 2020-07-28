@@ -4,7 +4,7 @@
 
 #### I'm a photographer turned software engineer who is passionately curious about ways to support and connect fellow humans with technology. Technologies I enjoy working with include ReactJS, Flutter, and plain old Vanilla JavaScript and can't wait to discover more! I'm excited to apply all the skills I've learned from my small business into my first technology role\*\* ✊🏿.
 
-<img align="left" src="https://live.staticflickr.com/65535/50164734037_39e42cda84_m.jpg">
+<img align="left" src="https://live.staticflickr.com/65535/50164497051_477798f211_m.jpg">
 
 <div style="text-align: right">
 
