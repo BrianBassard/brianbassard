@@ -8,6 +8,8 @@
 
 <img style="float: left;" src="https://live.staticflickr.com/65535/50164652572_2645fddceb_o.jpg">
 
+<div style="text-align: right"> 
+ 
 ## What I'm up to 👨🏿‍💻:
 
 ---
@@ -20,5 +22,7 @@
 ---
 
 Don't be a stranger. Please reach out if you'd like to connect, know a place that's hiring, or know of any organizations that I should plug myself into. 👌🏿
+
+</div>
 
 ---
