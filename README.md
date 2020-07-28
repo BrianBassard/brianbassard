@@ -1,7 +1,5 @@
 # Hi, I'm Brian! 🕺🏿 👋🏿
 
----
-
 ![Brian Bassard Avatar Banner Image](https://live.staticflickr.com/65535/50164652607_aaed0b55c1_o.jpg)
 
 #### I'm a photographer turned software engineer who is passionately curious about ways to support and connect fellow humans with technology. Technologies I enjoy working with include ReactJS, Flutter, and plain old Vanilla JavaScript and can't wait to discover more! I'm excited to apply all the skills I've learned from my small business into my first technology role\*\* ✊🏿.
